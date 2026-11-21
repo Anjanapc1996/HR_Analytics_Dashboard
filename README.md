@@ -125,11 +125,11 @@ These measures help calculate workforce metrics dynamically based on the selecte
 
 📷 Dashboard Preview
 
-![Overview](Screenshots/overview.png)
+![Overview](images/overview.png)
 
-![Program Performance](Screenshots/program-performance.png)
+![Tenure & Job level](images/Tenure&joblevel.png)
 
-![Analysis](Screenshots/analysis.png)
+![Promotion & Retrenchment](images/Promotion&retrenchment.png)
 
 ## 🏁 Conclusion
 
